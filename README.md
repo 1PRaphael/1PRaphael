@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Patric Raphael I am an aspiring Devops/Cloud Engineer! 
-I am currently learning to how code in Python and how to use with AWS. 
+I am currently learning to how code in Python and how to use it with AWS. 
 Now, this might sound crazy but the idea of sitting down and writing or debugging code is my idea of a good time! There's just something amazing about finding solutions! 
 
 Find out more about me & feel free to connect with me here:
